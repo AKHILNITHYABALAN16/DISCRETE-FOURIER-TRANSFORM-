@@ -8,6 +8,7 @@ To Obtain DFT and FFT of a given sequence in SCILAB.
 PC installed with SCILAB. 
 
 # PROGRAM: 
+```
 // DISCRETE FOURIER TRANSFORM 
 clc;
 clear;
@@ -73,6 +74,8 @@ plot2d3(n2,y)
 xlabel('Time n');
 ylabel('Amplitude');
 title('Inverse FFT OF X(K)');
+
+```
 # OUTPUT: 
 <img width="1596" height="835" alt="image" src="https://github.com/user-attachments/assets/4afa1718-27a1-4a05-9c72-94d9295807b2" />
 
